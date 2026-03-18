@@ -1,0 +1,34 @@
+PROMPT:
+
+Asume el rol de experto en desarrollo de contenidos digitales, redacción de alto nivel y cuidado en las formas según sea el público al que va dirigido el contenido de producir.¿Define que un eBook?, ¿Cuáles son las mejores practicas para su elaboración? y ¿cuáles son las consideraciones a tomar en cuenta, de acuerdo al público cuyo contenido va dirgido?
+
+Puntos de atención acerca de cómo debe ser un e-book:
+* Su formato permite la inclusión de elementos multimedia, 
+* enlaces interactivos y 
+* la posibilidad de actualizar contenido de manera más ágil que los libros impresos.
+
+
+
+PROMPT:
+Actúa como un profesor universitario experto en tecnología. Explica de forma sencilla pero rigurosa qué es el
+Procesamiento del Lenguaje Natural (NLP). Luego, enumera 3 aplicaciones del NLP que usamos en nuestro teléfono móvil
+todos los días sin darnos cuenta. Termina con una pregunta desafiante para ver si he entendido el concepto.
+
+
+https://outlier.ai/
+https://labelbox.com/
+
+
+PROMPT: 
+Asuma el rol de experto en inteligencia artificial y Procesamiento de Lenguaje Natural, se quiere una sugerencia, de cual debe ser el contenido de un e-book, dirigo a adultos mayores interesados en este tema. Se quiere simplicidad y analogías de la definición de temas técnicos, asi un desarrollo didáctico del tema. 
+
+PROMPT:
+Se tiene el archivo anexo y se necesitan imagenes alusivas al contenido de cada capitulo, genera las imagenes respectivas de cada capitulo a fin completar el diseño del e-book.
+
+
+PROMPT:
+Se requiere consolidar en un sólo documento (e-book) resultado el desarrollo del contenido "IA para Todos_ Guía Amigable" y las imagenes que corresponden a cada capitulo del archivo "Imágenes para E-book de IA". Genera el archivo resultado. Se anexan ambos archivos.
+
+
+
+
