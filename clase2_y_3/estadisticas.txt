@@ -1,0 +1,21 @@
+Basado en el contenido del informe *Future of Jobs Report 2023* del World Economic Forum, aquí tienes 5 indicadores estadísticos sobre las tendencias de las actividades laborales en el contexto de la inteligencia artificial (IA):
+
+1.  **Adopción Empresarial de la IA:** Se espera que casi el **75% de las empresas** adopten tecnologías de inteligencia artificial (como el aprendizaje automático y las redes neuronales) en los próximos cinco años (2023-2027).
+    *   *Fuente:* World Economic Forum, *Future of Jobs Survey 2023*.
+    *   *Autor:* World Economic Forum (proyecto liderado por Saadia Zahidi y el equipo del Centre for the New Economy and Society).
+
+2.  **Impacto Neto de la IA en el Empleo:** La inteligencia artificial es una de las tecnologías que generará una mayor "rotura estructural" del mercado laboral, con un **50% de las organizaciones** encuestadas que esperan que cree crecimiento de empleo, mientras que un **25%** espera que genere pérdida de puestos de trabajo, resultando en un efecto neto positivo para el empleo en general.
+    *   *Fuente:* World Economic Forum, *Future of Jobs Survey 2023*.
+    *   *Autor:* World Economic Forum.
+
+3.  **Crecimiento de Roles Especializados en IA:** Se prevé que la demanda de **Especialistas en IA y Aprendizaje Automático (Machine Learning)** crezca un **40%** entre 2023 y 2027, lo que se traduce en aproximadamente 1 millón de nuevos puestos de trabajo. Este rol es el de más rápido crecimiento en la lista de ocupaciones emergentes.
+    *   *Fuente:* World Economic Forum, análisis basado en la *Future of Jobs Survey 2023* y datos de la Organización Internacional del Trabajo (ILO).
+    *   *Autor:* World Economic Forum.
+
+4.  **Prioridad en Capacitación en IA:** A pesar de que solo el 28% de las empresas considera actualmente la IA y el Big Data como una habilidad central para su fuerza laboral, se ha convertido en la **tercera prioridad más alta en las estrategias de recapacitación (reskilling) y mejora de habilidades (upskilling)** de las empresas para el periodo 2023-2027, con el **42% de las compañías** planeando invertir en esta área.
+    *   *Fuente:* World Economic Forum, *Future of Jobs Survey 2023*.
+    *   *Autor:* World Economic Forum.
+
+5.  **Cambio en la Frontera Humano-Máquina:** Las organizaciones estiman que para 2027, el **42% de las tareas empresariales** serán realizadas por máquinas y algoritmos, una revisión a la baja respecto a las expectativas previas. En el ámbito específico de la inteligencia artificial, la automatización tendrá un impacto mixto, y se espera que la automatización de tareas de razonamiento y toma de decisiones aumente hasta representar el **35%** para 2027.
+    *   *Fuente:* World Economic Forum, *Future of Jobs Surveys 2020 y 2023*.
+    *   *Autor:* World Economic Forum.

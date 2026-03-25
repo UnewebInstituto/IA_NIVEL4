@@ -1,0 +1,17 @@
+Buenas tardes, Mirla;
+
+Reciba un cordial saludo. A continuación, se indican los puntos de atención, que debe tener en cuenta para la elaboración y presentación de proyecto e informe del diplomado de Programación Web.
+Tema: Es de libre elección.
+Tecnologías a utilizar: Las aprendidas durante el desarrollo del diplomado (html, css, javascript, php, mysql o postgresql, otras).
+Publicación: El proyecto debe ser publicado en un servidor hosting gratuito, por ejemplo www.alwaysdata.com (puede registrarse para familiarizarse con las funcionalidades). Esto con la finalidad de mostrar el funcionamiento del proyecto.
+El contenido de la aplicación, se puede subir usando filezilla cliente (instalar en su PC). https://filezilla-project.org/download.php?platform=win64
+Así mismo se espera que el estudiante, publique en GITHUB el contenido del código fuente del proyecto.
+Informe: Debe elaborar un informe, el cual contendrá los puntos que se indican en la "Guía para la elaboración de Proyectos de Diplomados de Uneweb". Se anexa guía así como informe de ejemplo, que servirá de referencia.
+En el informe se deben indicar la ruta de publicación en GITHUB y www.alwaysdata.com, por ejemplo: https://nombredelproyecto.alwaysdata.net.
+Se puede mantener en contacto conmigo a través de esta vía, para conocer los avances del proyecto. Se anexa guía de elaboración del informe final y ejemplo de informe elaborado por estudiante del diplomado.
+
+Estoy a la orden en caso de cualquier duda u observación.
+
+Gracias,
+
+Ing. Henry Duque.

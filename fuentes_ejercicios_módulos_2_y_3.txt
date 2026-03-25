@@ -1,0 +1,33 @@
+Para alimentar los ejercicios de los **Módulos 2 y 3** con "munición" real y técnica, necesitas documentos que tengan suficiente densidad de datos, estadísticas y marcos teóricos. 
+
+Se sugiere buscar y descargar los siguientes informes oficiales (que suelen estar disponibles en formato PDF) para que realices las prácticas de análisis, extracción de tendencias y RAG:
+
+### 1. Tendencias Globales y Adopción de IA (Ideal para el Módulo 3)
+* "Artificial Intelligence Index Report 2024" (Stanford University):** Es el documento más completo del mundo sobre el estado de la IA.
+* Uso en el ejercicio:* Extraer las 5 estadísticas más impactantes del último año para incluirlas en la introducción de tu eBook.
+
+* "The Future of Jobs Report 2023/2024" (World Economic Forum):** Analiza cómo la IA está transformando el mercado laboral.
+* Uso en el ejercicio:* Realizar un análisis FODA sobre el impacto de la automatización en las profesiones actuales. 
+
+---
+
+### 2. Documentos Técnicos para Práctica de "Resumen y Simplificación"
+* "Attention Is All You Need" (Vaswani et al.):** El "paper" original que dio origen a los Transformers y a los LLMs modernos.
+*Uso en el ejercicio:* Tomar un párrafo altamente técnico sobre el "Mecanismo de Atención" y usar el **Marco C.R.E.O.** para explicarlo como si fueras un instructor para principiantes. 
+
+* Guías de Ciberseguridad de la ENISA o el NIST sobre IA:** Documentos que detallan riesgos y marcos de gobernanza.
+* Uso en el ejercicio:* Practicar la técnica de "Interrogatorio al documento" para encontrar conclusiones específicas sobre seguridad sin leer las 100 páginas manualmente.
+
+---
+
+### 3. Informes de Mercado (Para Validar Temas de Negocio)
+* "Gartner Top Strategic Technology Trends for 2025":** Un informe clave para entender hacia dónde va la inversión empresarial.
+*Uso en el ejercicio:* Usar a Gemini para contrastar las tendencias de este PDF con las búsquedas actuales en Google y decidir el enfoque de un capítulo.
+
+---
+
+### Cómo encontrarlos rápidamente:
+Se recomienda realizar estas búsquedas exactas en Google para obtener los archivos directos:
+1.  `"AI Index Report 2024" filetype:pdf`
+2.  `"World Economic Forum Future of Jobs 2023" filetype:pdf`
+3.  `"Attention is all you need" arxiv pdf`

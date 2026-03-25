@@ -1,0 +1,18 @@
+Basado en el informe **AI Index Report 2024** de la Universidad de Stanford, las tres tendencias principales en la utilización y el desarrollo de la Inteligencia Artificial son las siguientes:
+
+### 1. Auge de la IA Generativa y su impacto en la productividad laboral
+La adopción de la IA ha dejado de ser teórica para integrarse directamente en el mundo del trabajo.
+* [cite_start]**Aumento de la productividad**: Estudios realizados en 2023 confirman que la IA permite a los trabajadores completar tareas con mayor rapidez y mejorar la calidad de sus resultados[cite: 26, 53, 168].
+* [cite_start]**Inversión masiva**: Aunque la inversión privada general en IA disminuyó, el financiamiento para la **IA generativa** se disparó, multiplicándose casi por ocho desde 2022 para alcanzar los 25,200 millones de dólares[cite: 52, 167].
+* [cite_start]**Adopción organizacional**: El 55% de las organizaciones ya utilizan IA en al menos una unidad de negocio o función[cite: 167].
+
+### 2. Transición hacia sistemas Multimodales y más complejos
+La IA está superando las limitaciones de procesar un solo tipo de datos (solo texto o solo imagen).
+* [cite_start]**Capacidad Multimodal**: Los nuevos sistemas de vanguardia (como GPT-4, Gemini y Claude 3) son "impresionantemente multimodales", capaces de generar texto fluido, procesar audio e incluso explicar imágenes de forma simultánea[cite: 34, 163].
+* [cite_start]**Superación de capacidades humanas**: La IA ya supera el rendimiento humano en tareas estándar como la clasificación de imágenes y la comprensión del inglés, aunque todavía tiene dificultades en tareas complejas como las matemáticas de nivel de competición[cite: 47, 163].
+
+### 3. Aceleración de la IA en la Ciencia y la Medicina
+La utilización de la IA se ha vuelto un motor fundamental para el descubrimiento científico y los avances médicos.
+* [cite_start]**Descubrimiento científico**: Aplicaciones como *AlphaDev* (para eficiencia algorítmica) y *GNoME* (para el descubrimiento de materiales) han acelerado el progreso en sus respectivos campos[cite: 57, 169].
+* [cite_start]**Avances médicos**: En 2023 se lanzaron sistemas críticos como *EVEscape*, que ayuda en la predicción de pandemias, y dispositivos médicos aprobados por la FDA que utilizan IA, los cuales han aumentado 45 veces desde 2012[cite: 169].
+* [cite_start]**Conocimiento especializado**: Modelos como *GPT-4 Medprompt* alcanzaron un 90.2% de precisión en pruebas de conocimiento clínico, triplicando el rendimiento registrado en 2019[cite: 169].
