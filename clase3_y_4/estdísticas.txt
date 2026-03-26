@@ -1,0 +1,199 @@
+
+# 📊 1. Naturaleza de los datos
+
+El informe se basa en:
+
+* **803 empresas**
+* **11.3 millones de trabajadores representados**
+* **27 sectores económicos**
+* **45 economías globales** 
+
+👉 Tipo de datos:
+
+* **Encuesta empresarial (percepción + expectativa)**
+* Complementado con datos secundarios (LinkedIn, Coursera, Indeed)
+
+📌 Esto implica:
+
+* No es un experimento causal
+* Es un análisis **predictivo-descriptivo** con enfoque prospectivo (2023–2027)
+
+---
+
+# 📈 2. Tendencia principal (Macroanálisis)
+
+### 🔹 Transformación estructural del empleo
+
+* Se espera una **disrupción del 23% de los empleos**
+* Creación: **+69 millones**
+* Destrucción: **−83 millones**
+* Resultado neto: **−14 millones (−2%)** 
+
+👉 **Interpretación estadística:**
+
+* Tendencia de **desplazamiento estructural (churn)**, no colapso total
+* Mercado laboral en transición, no en crisis absoluta
+
+---
+
+# 🔗 3. Correlaciones relevantes (Relaciones entre variables)
+
+### 📌 a) Tecnología ↔ Empleo
+
+* +85% de empresas: tecnología como principal driver
+* IA adoptada por ~75% de empresas 
+
+👉 Relación:
+
+* **Positiva (creación de empleo especializado)**
+* **Negativa (automatización de tareas rutinarias)**
+
+📊 Conclusión:
+
+> Correlación dual → “destrucción creativa”
+
+---
+
+### 📌 b) Nivel educativo ↔ Desempleo
+
+* Trabajadores con menor educación → mayor incremento en desempleo 
+
+👉 Tipo:
+
+* **Correlación inversa fuerte**
+
+  * A menor educación → mayor vulnerabilidad
+
+---
+
+### 📌 c) Digitalización ↔ Tipo de empleo
+
+* Crecen:
+
+  * IA, Big Data, Ciberseguridad
+* Caen:
+
+  * Roles administrativos, cajeros, digitadores 
+
+👉 Relación:
+
+* **Cambio en la estructura ocupacional (shift, no solo crecimiento)**
+
+---
+
+# 📆 4. Estacionalidad
+
+❗ No se identifica estacionalidad clásica (como series mensuales)
+
+👉 Pero sí hay:
+
+### 🔁 “Ciclos estructurales”
+
+* Post-COVID → recuperación desigual
+* Inflación → caída de salarios reales (−0.9%) 
+
+📊 Interpretación:
+
+* Dinámica influida por:
+
+  * shocks macroeconómicos
+  * eventos globales (pandemia, guerra, inflación)
+
+---
+
+# ⚠️ 5. Anomalías / Hallazgos atípicos
+
+### 🔸 1. Automatización más lenta de lo esperado
+
+* 2020: se esperaba 47% automatización
+* 2023: estimación real → 34%
+* Proyección 2027 → 42% 
+
+👉 **Anomalía:** sobreestimación inicial
+
+---
+
+### 🔸 2. IA genera más empleo del esperado
+
+* 50% empresas → creación de empleo
+* 25% → destrucción 
+
+👉 Rompe la narrativa clásica de “IA = desempleo”
+
+---
+
+### 🔸 3. Desajuste formación vs demanda
+
+* 44% de habilidades serán disruptadas
+* 60% requerirá capacitación
+* Solo 50% tiene acceso a formación 
+
+👉 **Gap estructural crítico**
+
+---
+
+# 📉 6. Segmentación del mercado laboral
+
+### 🔻 Grupos más afectados:
+
+* Mujeres
+* Jóvenes (15–24)
+* Baja educación
+* Países en desarrollo 
+
+👉 Evidencia de:
+
+* **Desigualdad estructural persistente**
+
+---
+
+# 📊 7. Análisis de habilidades (Skills Analytics)
+
+### 🔝 Top habilidades:
+
+1. Pensamiento analítico
+2. Pensamiento creativo
+3. Alfabetización tecnológica 
+
+### 📈 Tendencia:
+
+* 44% de skills cambiarán
+
+👉 Insight:
+
+> Transición de economía manual → cognitiva + digital
+
+---
+
+# 🧠 8. Conclusión ejecutiva (Insight de alto nivel)
+
+Desde una perspectiva estadística:
+
+### 📌 El sistema laboral global muestra:
+
+* **Alta volatilidad estructural**
+* **Transformación impulsada por tecnología**
+* **Desalineación entre oferta y demanda de habilidades**
+
+---
+
+### 🎯 Modelo interpretativo final:
+
+El mercado laboral puede describirse como:
+
+> **Un sistema dinámico en transición**, donde:
+
+* La tecnología actúa como variable independiente dominante
+* Las habilidades como variable mediadora
+* El empleo como variable dependiente altamente sensible
+
+---
+
+# 🚀 Si quieres ir más profundo
+
+Puedo complementarte con:
+
+* 📊 Visualizaciones (gráficos de tendencias)
+* 📈 Modelos predictivos (escenarios 2027)
+* 🧩 Análisis FODA del mercado laboral
+* 📘 Resumen para eBook (si lo estás usando para contenido)
